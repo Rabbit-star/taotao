@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [08/Feb/2020:04:07:32 +0800] "GET /erp/index.html HTTP/1.1" 404 979 http-bio-8080-exec-2 55
+0:0:0:0:0:0:0:1 - - [08/Feb/2020:04:07:33 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 2

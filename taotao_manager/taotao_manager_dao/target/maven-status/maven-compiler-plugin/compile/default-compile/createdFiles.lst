@@ -1,0 +1,8 @@
+com\taotao\mapper\TestMapper.class
+com\taotao\mapper\TbUserMapper.class
+com\taotao\mapper\TbContentMapper.class
+com\taotao\mapper\TbOrderShippingMapper.class
+com\taotao\mapper\TbOrderMapper.class
+com\taotao\mapper\TbItemMapper.class
+com\taotao\mapper\TbOrderItemMapper.class
+com\taotao\mapper\TbContentCategoryMapper.class
