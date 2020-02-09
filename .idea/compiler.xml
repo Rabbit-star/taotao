@@ -9,6 +9,7 @@
         <module name="taotao_manager_web" />
         <module name="taotao_manager_pojo" />
         <module name="taotao_manager_service" />
+        <module name="taotao_portal_web" />
         <module name="taotao_manager_interface" />
         <module name="taotao_manager_dao" />
         <module name="taotao_common" />

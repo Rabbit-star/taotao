@@ -25,8 +25,8 @@
 	<!-- 引用dubbo服务 -->
 	<dubbo:application name="taotao_manager_web"/>
 	<dubbo:registry protocol="zookeeper" address="192.168.28.138:2181"/>
-	<dubbo:reference interface="com.taotao.service.TestService" id="testService" />	
-	<dubbo:reference interface="com.taotao.service.ItemService" id="itemService" />
+	<dubbo:reference interface="com.taotao.service.TestService" id="testService" timeout="300000"/>
+	<dubbo:reference interface="com.taotao.service.ItemService" id="itemService" timeout="300000"/>
 	<!--配置静态资源映射-->
 	<!--指定/WEB-INF/js /WEB-INF/css下的资源都不被拦截-->
 	<mvc:resources mapping="/js/**" location="/WEB-INF/js"/>
